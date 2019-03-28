@@ -1,3 +1,2 @@
 # PythonML
-ML Applications in python
-Tes
+First ML Applications in python
